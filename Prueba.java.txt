@@ -2,6 +2,8 @@ public class prueba{
 
 public static void main(String args[]){
 
-     System.out.print("Kevin robles ")
+     String text = "Hola"
+
+     System.out.print(text+"Kevin robles ")
   }
 }
